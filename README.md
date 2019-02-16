@@ -1,6 +1,6 @@
 >Forked from [Design Patterns In Kotlin](http://twitter.com/dbacinski) by Dariusz Baciński
 <br />
-Based on [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) by [@nsmeme](http://twitter.com/nsmeme) (Oktawian Chojnacki)
+>Based on [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) by [@nsmeme](http://twitter.com/nsmeme) (Oktawian Chojnacki)
 
 ## Table of Contents
 
