@@ -1,5 +1,3 @@
-# Design Patterns In Kotlin
-
 Forked from [Design Patterns In Kotlin](http://twitter.com/dbacinski) by Dariusz Baciński
 
 Based on [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) by [@nsmeme](http://twitter.com/nsmeme) (Oktawian Chojnacki)
