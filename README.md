@@ -1,8 +1,6 @@
 # Design Patterns In Kotlin
 
-#### :warning: New article about testing: [Unit Testing with Mockito 2](https://github.com/dbacinski/Android-Testing-With-Kotlin/blob/master/docs/Unit-Testing-Mockito.md)
-
-Project maintained by [@dbacinski](http://twitter.com/dbacinski) (Dariusz Baciński)
+Forked from [Design Patterns In Kotlin](http://twitter.com/dbacinski) by Dariusz Baciński
 
 Based on [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) by [@nsmeme](http://twitter.com/nsmeme) (Oktawian Chojnacki)
 
